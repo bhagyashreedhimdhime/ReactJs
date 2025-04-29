@@ -1,0 +1,34 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "Hello this is Bhagyashree ",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhagyashreedhimdhime/ReactJs.git"
+  },
+  "keywords": [
+    "react",
+    "bhagyashree",
+    "dhimdhime"
+  ],
+  "author": "Bhagyashree DHimdhime",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhagyashreedhimdhime/ReactJs/issues"
+  },
+  "homepage": "https://github.com/bhagyashreedhimdhime/ReactJs#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "browserlists":[
+    "last 2 version"
+  ]
+}
